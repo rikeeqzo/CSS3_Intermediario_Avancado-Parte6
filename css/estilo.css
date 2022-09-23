@@ -25,6 +25,15 @@ body {
     float: right;
 }
 
+#navegacao {
+    border: 1px solid red;
+    width: 180px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d1;
+}
+
 #conteudo-principal {
     width: 320px;
     float: left;
@@ -42,16 +51,6 @@ body {
 #conteudo-secundario p {
     padding-left: 20px;
     padding-right: 20px;
-}
-
-
-#navegacao {
-    border: 1px solid red;
-    width: 180px;
-    float: left;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background: #d1d1d1;
 }
 
 #navegacao ul {
