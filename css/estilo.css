@@ -21,13 +21,13 @@ body {
 
 #conteudo {
     border: 1px solid red;
-    width: 520px;
+    width: 75%;
     float: right;
 }
 
 #navegacao {
     border: 1px solid red;
-    width: 180px;
+    width: 23%;
     float: left;
     padding-top: 20px;
     padding-bottom: 20px;
