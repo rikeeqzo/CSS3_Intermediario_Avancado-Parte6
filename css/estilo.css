@@ -20,13 +20,11 @@ body {
 }
 
 #conteudo {
-    border: 1px solid red;
     width: 75%;
     float: right;
 }
 
 #navegacao {
-    border: 1px solid red;
     width: 23%;
     float: left;
     padding-top: 20px;
@@ -35,11 +33,13 @@ body {
 }
 
 #conteudo-principal {
+    border: 1px solid red;
     width: 320px;
     float: left;
 }
 
 #conteudo-secundario {
+    border: 1px solid red;
     width: 180px;
     float: right;
     background: #d1d1d1;
