@@ -6,10 +6,11 @@ body {
 }
 
 #container {
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
     background: #fff;
     min-width: 720px;
+    max-width: 960px;
 }
 
 #marca {
